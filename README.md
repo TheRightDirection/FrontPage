@@ -1,0 +1,4 @@
+FrontPage
+=========
+
+Basic page design.
