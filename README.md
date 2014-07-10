@@ -1,4 +1,6 @@
 FrontPage
 =========
 
-Basic page design.
+**Basic page design.**
+
+A simple page layout, short and simple.
