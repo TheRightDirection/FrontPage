@@ -6,7 +6,7 @@ body {
 header {
     background-color: #A1B7FF;
     height: 150px;
-    border-bottom: solid 3px #BEC2CC;
+    border-bottom: solid 1px #BEC2CC;
     position: relative;
     z-index: 15;
 }

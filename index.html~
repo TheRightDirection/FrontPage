@@ -13,9 +13,9 @@
     </head>
 
     <body>
-      	<header>
-			<div id="logo">The Right Direction</div>
-		</header>
+        <header>
+		<div id="logo">The Right Direction</div>
+	</header>
 
         <div id="main"></div>
 
